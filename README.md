@@ -93,7 +93,7 @@ The **Cisco TelePresence System EX90 Videoconferencing Unit** looked successful 
 Superstore-data-analysis/
 │
 ├── notebooks/
-│   └── Superstore_Data_Analysis_ipynp.ipynb
+│   └── Superstore_Data_Analysis.ipynb
 │
 ├── Plots/
 │   ├── mystery_sales_profit_margin vs profit.png
