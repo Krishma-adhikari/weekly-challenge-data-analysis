@@ -83,7 +83,6 @@ The **Cisco TelePresence System EX90 Videoconferencing Unit** looked successful 
 
 * Python
 * Pandas
-* NumPy
 * Matplotlib
 * Google Colab
 
